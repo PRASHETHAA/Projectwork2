@@ -17,12 +17,19 @@ This project utilizes machine learning to analyze EEG signals for accurate epile
 
 ## Requirements
 Operating System: Compatible with major operating systems such as Windows, macOS, and Linux.
+
 Development Environment: Python 3.x is necessary for coding machine learning algorithms.
+
 Machine Learning Frameworks: Libraries such as scikit-learn, TensorFlow, and PyTorch for model development and training.
+
 Data Manipulation Libraries: Pandas for data manipulation and analysis, NumPy for numerical operations.
+
 Visualization Libraries: Matplotlib and Seaborn for data visualization and analysis.
+
 Version Control: Git for collaborative development and code management.
+
 IDE: Integrated Development Environments like Jupyter Notebook, Spyder, or VSCode for coding and experimentation.
+
 Additional Dependencies: Depending on specific requirements, additional libraries for feature engineering, model evaluation, and deployment may be needed.
 
 ## System Architecture
