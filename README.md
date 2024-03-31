@@ -42,6 +42,10 @@ Additional Dependencies: Depending on specific requirements, additional librarie
 #### Output1 - The number of trials for the seizure or non-seizure class 
 ![image](https://github.com/PRASHETHAA/Projectwork2/assets/75234942/6d34ffd3-0647-4a96-a783-9d21b5f8b99a)
 
+#### Output1 - ROC Curve
+![image](https://github.com/PRASHETHAA/Projectwork2/assets/75234942/6f1be38c-b228-424c-b2fa-19a0012b08be)
+
+
 
 
 
