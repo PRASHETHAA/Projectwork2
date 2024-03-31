@@ -6,9 +6,13 @@ This project utilizes machine learning to analyze EEG signals for accurate epile
 
 ## Features
 1)Utilizes advanced machine learning algorithms for accurate seizure detection.
+
 2)Incorporates EEG signal processing techniques for feature extraction.
+
 3)Offers real-time monitoring capabilities for timely intervention.
+
 4)Enables personalized treatment strategies based on patient-specific data.
+
 5)Facilitates seamless integration into existing healthcare systems for improved diagnostics.
 
 ## Requirements
